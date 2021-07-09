@@ -7,6 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/kausr2595/" title="LinkedIN"><img width="22" src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn</a></code>
+    <code>
+        <a href="https://www.linkedin.com/in/kausr2595/" title="LinkedIN"><img width="22" src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn</a>
+    </code>
+    <code>
+        <a href="https://twitter.com/kaus_rai" title="LinkedIN"><img width="22" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/> Twitter</a>
+    </code>
 </h5>

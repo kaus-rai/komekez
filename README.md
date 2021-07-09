@@ -1,3 +1,7 @@
-<h1>
-  Hey Kaustubh here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=komekez.komekez">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Kaustubh+here;&center=true&size=30">
+  </a>
 </h1>

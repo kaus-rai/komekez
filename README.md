@@ -15,7 +15,7 @@
     </code>
 </h5>
 
-<div>
+<div align="center">
   <h5> Currently Playing  🎧 </h5>
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fiszru56oshdol5awd6uerrqcq&cover_image=false&theme=novatorem)]

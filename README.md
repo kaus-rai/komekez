@@ -16,7 +16,7 @@
 </h5>
 
 <h5> Currently Playing </h5>
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fiszru56oshdol5awd6uerrqcq&cover_image=true&theme=natemoo-re)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fiszru56oshdol5awd6uerrqcq&cover_image=true&theme=natemoo-re)]
 
 <div align="center">
     <img src = 'https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif'/>
